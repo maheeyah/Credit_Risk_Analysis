@@ -4,9 +4,9 @@ The purpose of this project is to apply machine learning to credit card risk. Th
 
 ## Results:
 ### RandomOverSampler: 
-    * Balanced Accuracy Score: 0.6287664527357772 or 62.9%
-    * Precision Score: 0.01 or 1%
-    * Recall Score: 0.60 or 60%
+   * Balanced Accuracy Score: 0.6287664527357772 or 62.9%
+   * Precision Score: 0.01 or 1%
+   * Recall Score: 0.60 or 60%
 ### SMOTE
   * Balanced Accuracy Score: 0.6307234570587121 or 63.1%
   * Precision Score: 0.01 or 1%
